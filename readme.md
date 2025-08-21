@@ -1,6 +1,6 @@
 Malawi Community Vulnerability Dashboard
 
-Hackathon Challenge Track 2: Community Vulnerability Analysis & Early Warning Systems
+Track 2: Community Vulnerability Analysis & Early Warning Systems
 
 
 An AI-powered early warning system for resilience planning in Malawi.
@@ -73,7 +73,7 @@ Satellite imagery for real-time risk mapping
 Community Feedback: Crowdsourced vulnerability reporting
 
 
-Hackathon Deliverable
+Deliverable
 
 Clear visual insights
 Real-time data integration
