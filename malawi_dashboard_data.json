@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "country": "Malawi",
+    "last_updated": "2025-08-20T13:47:10.681161",
+    "data_sources": [
+      "FS-COR",
+      "AGWAA"
+    ],
+    "version": "1.0"
+  },
+  "districts": [
+    {
+      "district": "Lilongwe",
+      "vulnerability_score": 65,
+      "climate_exposure": 70,
+      "food_security": 72,
+      "nutrition_adequacy": 68,
+      "population": 989318,
+      "last_updated": "2025-08-20T13:47:08.620788"
+    },
+    {
+      "district": "Blantyre",
+      "vulnerability_score": 78,
+      "climate_exposure": 82,
+      "food_security": 68,
+      "nutrition_adequacy": 75,
+      "population": 800264,
+      "last_updated": "2025-08-20T13:47:08.620788"
+    }
+  ],
+  "time_series": {
+    "labels": [
+      "Sep 2024",
+      "Oct 2024",
+      "Nov 2024",
+      "Dec 2024",
+      "Jan 2025",
+      "Feb 2025",
+      "Mar 2025",
+      "Apr 2025",
+      "May 2025",
+      "Jun 2025",
+      "Jul 2025",
+      "Aug 2025"
+    ],
+    "datasets": [
+      {
+        "label": "Overall Vulnerability",
+        "data": [
+          68,
+          56,
+          55,
+          59,
+          61,
+          74,
+          71,
+          88,
+          87,
+          82,
+          81,
+          65
+        ],
+        "borderColor": "#e74c3c",
+        "backgroundColor": "rgba(231, 76, 60, 0.1)"
+      },
+      {
+        "label": "Food Security",
+        "data": [
+          62,
+          57,
+          51,
+          54,
+          61,
+          61,
+          73,
+          74,
+          77,
+          73,
+          64,
+          64
+        ],
+        "borderColor": "#f39c12",
+        "backgroundColor": "rgba(243, 156, 18, 0.1)"
+      },
+      {
+        "label": "Climate Resilience",
+        "data": [
+          64,
+          63,
+          59,
+          65,
+          67,
+          77,
+          76,
+          85,
+          85,
+          90,
+          79,
+          82
+        ],
+        "borderColor": "#3498db",
+        "backgroundColor": "rgba(52, 152, 219, 0.1)"
+      }
+    ]
+  },
+  "risk_metrics": {
+    "overall_risk": 70,
+    "population_at_risk": 800264,
+    "food_insecurity_rate": 30,
+    "climate_vulnerability": 76,
+    "high_risk_districts": 1,
+    "total_districts": 2
+  },
+  "nutrition_data": [
+    {
+      "district": "Kasungu",
+      "stunting_rate": 37.1,
+      "wasting_rate": 4.6,
+      "underweight_rate": 16.8,
+      "dietary_diversity": 3.2,
+      "iron_deficiency": 22.7
+    }
+  ],
+  "agricultural_data": [
+    {
+      "district": "Mangochi",
+      "crop_yield_index": 68,
+      "drought_frequency": 0.3,
+      "soil_fertility_index": 45,
+      "irrigation_coverage": 12
+    }
+  ]
+}
