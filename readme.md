@@ -1,7 +1,7 @@
 Malawi Community Vulnerability Dashboard
 
 Track 2: Community Vulnerability Analysis & Early Warning Systems
-
+Access the ResilienceGuard Here: https://resilienceguard.streamlit.app/
 
 An AI-powered early warning system for resilience planning in Malawi.
 Built for policymakers, NGOs, and community planners to make data-driven decisions on food security, climate risk, and community vulnerability.
